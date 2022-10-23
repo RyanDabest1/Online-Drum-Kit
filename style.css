@@ -14,6 +14,7 @@ h2{
     font-style: italic;
     text-align: center;
     margin: 30px;
+    font-size: 30px;
 }
 .keys{
     display: flex;
